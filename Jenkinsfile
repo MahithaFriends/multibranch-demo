@@ -24,7 +24,7 @@ pipeline{
         branch 'main'
       }
       steps{
-        echo "Deploy to dev servers"
+        echo "Deploy to prod servers"
       }
     }
   }
